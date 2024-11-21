@@ -2,5 +2,4 @@
 Site para a simulaçao:
 https://estebanmap.github.io/SiteCIC/
 
-esse site esta em contruçao
-![Uploading image.png…]()
+esse site esta em contruçao!
