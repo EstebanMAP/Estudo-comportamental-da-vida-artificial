@@ -1,2 +1,6 @@
 # Estudo-comportamental-da-vida-artificial
-oi teste
+Site para a simulaçao:
+https://estebanmap.github.io/SiteCIC/
+
+esse site esta em contruçao
+![Uploading image.png…]()
