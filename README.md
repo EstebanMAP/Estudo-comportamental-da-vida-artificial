@@ -2,6 +2,6 @@
 Site para a simulaçao:
 https://estebanmap.github.io/SiteCIC/
 
-esse site esta em contruçao!
+esse site esta em contruçao! (socorro)
 
 ![soldado](./Imagens/soldado.jpg)
