@@ -26,21 +26,38 @@ Python: https://www.python.org/
 Git: https://git-scm.com/
 
 Insira os seguintes codigos, dessa sessão e posterior, no terminal de sua maquina:
+Insira os seguintes codigos, dessa sessão e posterior, no terminal de sua maquina:
+```bash
+pip install notebook
+````
 ```bash
 pip install pygame
 ````
+
 ## Passo a Passo para Rodar a Simulação
 1. Clone o repositório do projeto:
 ```bash
 git clone https://github.com/EstebanMAP/Estudo-comportamental-da-vida-artificial
 ```
 2. Navegue até o diretório do projeto:
+Para simulaçao com movimento aleatorio:
 ```bash
-git clone <URL_DO_SEU_REPOSITÓRIO>
+cd Estudo-comportamental-da-vida-artificial/Random/
 ```
-3. Abra o Jupyter Notebook para rodar a simulação:
+Para simulaçao com movimento orientada por percepção:
 ```bash
-jupyter notebook "IC Based in rules.ipynb"
+cd Estudo-comportamental-da-vida-artificial/Perception
 ```
-4. Execute as células do notebook sequencialmente para iniciar a simulação.
+
+3. Abra o Jupyter Notebook
+Para simulaçao com movimento aleatorio:
+```bash
+jupyter notebook PrayPredatorRandom.ipynb
+```
+Para simulaçao com movimento orientado por percepção:
+```bash
+jupyter notebook PrayPredatorBasedInRules.ipynb
+```
+
+4. Execute a célula do notebook para iniciar a simulação.
 
