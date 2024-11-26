@@ -20,7 +20,7 @@ A movimentação das espécies é implementada de duas maneiras:
 - Explorar variações nos parâmetros do modelo para analisar estabilidade e equilíbrio.
 
 ### Como rodar o projeto em seu repositório
-## Pré-requisitos
+# Pré-requisitos
 Certifique-se de ter o Python instalado em sua máquina. As bibliotecas necessárias podem ser instaladas com o seguinte comando:
 
 ```bash
