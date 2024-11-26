@@ -19,17 +19,20 @@ A movimentação das espécies é implementada de duas maneiras:
 - Avaliar o impacto das estratégias de movimentação na dinâmica populacional.
 - Explorar variações nos parâmetros do modelo para analisar estabilidade e equilíbrio.
 
-### Como rodar o projeto em seu repositório
+### Como Rodar o Projeto em seu Repositório
 # Pré-requisitos
-Certifique-se de ter o Python instalado em sua máquina. As bibliotecas necessárias podem ser instaladas com o seguinte comando:
+Certifique-se de ter o Python e Git instalados em sua máquina.
+Python: https://www.python.org/
+Git: https://git-scm.com/
 
+Insira os seguintes codigos, dessa sessão e posterior, no terminal de sua maquina:
 ```bash
 pip install pygame
 ````
 ## Passo a Passo para Rodar a Simulação
 1. Clone o repositório do projeto:
 ```bash
-git clone <https://github.com/EstebanMAP/Estudo-comportamental-da-vida-artificial>
+git clone https://github.com/EstebanMAP/Estudo-comportamental-da-vida-artificial
 ```
 2. Navegue até o diretório do projeto:
 ```bash
