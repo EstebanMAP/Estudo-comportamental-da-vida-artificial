@@ -29,7 +29,7 @@ pip install pygame
 ## Passo a Passo para Rodar a Simulação
 1. Clone o repositório do projeto:
 ```bash
-git clone <URL_DO_SEU_REPOSITÓRIO>
+git clone <https://github.com/EstebanMAP/Estudo-comportamental-da-vida-artificial>
 ```
 2. Navegue até o diretório do projeto:
 ```bash
