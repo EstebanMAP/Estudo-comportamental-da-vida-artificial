@@ -1,6 +1,6 @@
 # Estudo Comportamental da Vida Artificial
 
-Este projeto apresenta uma simulação baseada no modelo de Lotka-Volterra para analisar o comportamento de presas e predadores em um ambiente virtual. Desenvolvido em Python, o sistema simula as interações entre três espécies principais: plantas, coelhos e raposas, permitindo a exploração de diferentes estratégias de movimentação e dinâmicas populacionais.
+  Este projeto apresenta uma simulação baseada no modelo de Lotka-Volterra para analisar o comportamento de presas e predadores em um ambiente virtual. Desenvolvido em Python, o sistema simula as interações entre três espécies principais: plantas, coelhos e raposas, permitindo a exploração de diferentes estratégias de movimentação e dinâmicas populacionais.
 
 No ecossistema virtual, as espécies desempenham os seguintes papéis:
 - **Plantas**: Geradas aleatoriamente ao longo do tempo.
