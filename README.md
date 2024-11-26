@@ -22,10 +22,11 @@ A movimentação das espécies é implementada de duas maneiras:
 ### Como Rodar o Projeto em seu Repositório
 # Pré-requisitos
 Certifique-se de ter o Python e Git instalados em sua máquina.
+
 Python: https://www.python.org/
+
 Git: https://git-scm.com/
 
-Insira os seguintes codigos, dessa sessão e posterior, no terminal de sua maquina:
 Insira os seguintes codigos, dessa sessão e posterior, no terminal de sua maquina:
 ```bash
 pip install notebook
