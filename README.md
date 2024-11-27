@@ -3,6 +3,7 @@
   Este projeto apresenta uma simulação baseada no modelo de Lotka-Volterra para analisar o comportamento de presas e predadores em um ambiente virtual. Desenvolvido em Python, o sistema simula as interações entre três espécies principais: plantas, coelhos e raposas, permitindo a exploração de diferentes estratégias de movimentação e dinâmicas populacionais.
 
 Site para a simulaçao: https://estebanmap.github.io/SiteCIC/
+
 (Caso esteje em um dispositivo móvel, rotacione-o horizontalmente para uma melhor experiencia)
 
 No ecossistema virtual, as espécies desempenham os seguintes papéis:
